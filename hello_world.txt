@@ -1,1 +1,2 @@
 "Hello from Barcelona"
+"Silence is the best answer"
